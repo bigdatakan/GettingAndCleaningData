@@ -5,7 +5,7 @@ Repository for Course Project for Getting and Cleaning Data on Coursera
 
 * [Introduction](#Introduction)
 * [Files and Directories](#Files-and-Directories)
-* [Instruction(#Instruction)
+* [Instruction](#Instruction)
 
 ## Introduction
 
