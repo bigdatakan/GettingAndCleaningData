@@ -39,4 +39,5 @@ Good luck!
 ## Instruction
 
 * Edit ```run_analysis.R``` and set the Working Directory on line 2 to the location of ```run_analysis.R```.
-* The output files, merged_dataset.txt and independent_tidy_dataset.text, are created or overwritten in the Working Directory
+* Run ```run_analysis.R``` in RStudio or R Console.
+* The output files, merged_dataset.txt and independent_tidy_dataset.txt, are created or overwritten in the Working Directory
